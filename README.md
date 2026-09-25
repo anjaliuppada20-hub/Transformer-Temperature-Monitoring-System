@@ -1,1 +1,0 @@
-# Transformer-Temperature-Monitoring-System
